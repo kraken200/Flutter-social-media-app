@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "887969804090",
+    "project_id": "fitworld-ae32e",
+    "storage_bucket": "fitworld-ae32e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887969804090:android:ead797baff10dd4ce86a03",
+        "android_client_info": {
+          "package_name": "com.example.fitworld_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887969804090-4ckafa9m56o1fiun7thjmsvjtkeemqd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJtGF6kK_XBHbAad5KKPSglaPTumgxM-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887969804090-4ckafa9m56o1fiun7thjmsvjtkeemqd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
